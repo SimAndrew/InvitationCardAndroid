@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="You_re_invited">You\'re invited!</string>
+    <string name="todo">TODO</string>
+    <string name="Bonfire_at_the_beach">Bonfire at the beach</string>
+    <string name="you_re_invited">You\'re invited!</string>
+    <string name="bonfire_at_the_beach">bonfire at the beach</string>
+    <string name="you_are_invited">You are invited!</string>
+    <string name="bonfire">Bonfire</string>
+</resources>

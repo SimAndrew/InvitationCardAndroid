@@ -1,0 +1,30 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:src="@drawable/sea"
+        android:layout_width="match_parent"
+        android:scaleType="centerCrop"
+        android:layout_height="0dp"
+        android:layout_weight="8" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#00796B"
+        android:text="@string/you_re_invited"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:textColor="#B2DFDB" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#00796B"
+        android:text="@string/Bonfire_at_the_beach"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="#B2DFDB" />
+</LinearLayout>
